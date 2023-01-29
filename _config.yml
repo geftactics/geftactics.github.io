@@ -1,5 +1,17 @@
 title: Info Site
 description: A wiki/info site
 theme: just-the-docs
-
 url: https://geftactics.github.io
+
+color_scheme: dark
+
+# Footer last edited timestamp
+last_edit_timestamp: true
+last_edit_time_format: "%b %e %Y at %I:%M %p"
+
+# Footer "Edit this page" link text
+gh_edit_link: true
+gh_edit_source: content
+gh_edit_link_text: "Edit this page."
+gh_edit_repository: "https://github.com/geftactics/geftactics.github.io"
+gh_edit_view_mode: "edit"
