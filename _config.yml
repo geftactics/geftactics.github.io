@@ -11,7 +11,6 @@ last_edit_time_format: "%b %e %Y at %I:%M %p"
 
 # Footer "Edit this page" link text
 gh_edit_link: true
-gh_edit_source: content
 gh_edit_link_text: "Edit this page."
 gh_edit_repository: "https://github.com/geftactics/geftactics.github.io"
 gh_edit_branch: main
