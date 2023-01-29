@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Curtains
 parent: Interior
+title: Curtains
+permalink: /interior/curtains
 ---
 
-Page about seats
+Page about curtains

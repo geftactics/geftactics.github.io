@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Oil
 parent: Engine
+title: Oil
+permalink: /engine/oil
 ---
 
 Page about Oil

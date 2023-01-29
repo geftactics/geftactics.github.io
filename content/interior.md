@@ -1,7 +1,9 @@
 ---
 layout: default
-title: Interior
 has_children: true
+title: Interior
+permalink: /interior
 ---
 
-# interior
+# Interior
+content here

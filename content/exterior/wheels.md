@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Wheels
 parent: Exterior
+title: Wheels
+permalink: /exterior/wheels
 ---
 
 Page about wheels

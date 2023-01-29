@@ -1,7 +1,9 @@
 ---
 layout: default
-title: Exterior
 has_children: true
+title: Exterior
+permalink: /exterior
 ---
 
 # Exterior
+content here

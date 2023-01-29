@@ -1,7 +1,8 @@
 ---
 layout: default
+parent: Engine
 title: Battery
-parent: Enginer
+permalink: /engine/battery
 ---
 
 Page about battery

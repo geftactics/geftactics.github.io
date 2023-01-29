@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Seats
 parent: Interior
+title: Seats
+permalink: /interior/seats
 ---
 
 Page about seats
